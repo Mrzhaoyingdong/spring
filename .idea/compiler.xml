@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-circular-dependence" />
+        <module name="spring-context" />
+        <module name="spring-life-cycle" />
+        <module name="spring-proxy" />
+        <module name="spring-beandefinition" />
+        <module name="spring-value-refesh" />
+        <module name="spring-i18n" />
+        <module name="spring-autowire" />
+        <module name="spring-annotatio" />
+        <module name="spring-aop" />
+        <module name="spring-async" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring" target="1.8" />
+      <module name="spring-annotatio" target="1.8" />
+      <module name="spring-aop" target="1.8" />
+      <module name="spring-async" target="1.8" />
+      <module name="spring-autowire" target="1.8" />
+      <module name="spring-beandefinition" target="1.8" />
+      <module name="spring-circular-dependence" target="1.8" />
+      <module name="spring-context" target="1.8" />
+      <module name="spring-i18n" target="1.8" />
+      <module name="spring-life-cycle" target="1.8" />
+      <module name="spring-proxy" target="1.8" />
+      <module name="spring-value-refesh" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-annotatio" options="-parameters" />
+      <module name="spring-aop" options="-parameters" />
+      <module name="spring-async" options="-parameters" />
+      <module name="spring-autowire" options="-parameters" />
+      <module name="spring-beandefinition" options="-parameters" />
+      <module name="spring-circular-dependence" options="-parameters" />
+      <module name="spring-context" options="-parameters" />
+      <module name="spring-i18n" options="-parameters" />
+      <module name="spring-life-cycle" options="-parameters" />
+      <module name="spring-proxy" options="-parameters" />
+      <module name="spring-value-refesh" options="-parameters" />
+    </option>
+  </component>
+</project>

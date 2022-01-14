@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-annotatio/spring-annotatio.iml" filepath="$PROJECT_DIR$/spring-annotatio/spring-annotatio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/spring-aop/spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-async/spring-async.iml" filepath="$PROJECT_DIR$/spring-async/spring-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-autowire/spring-autowire.iml" filepath="$PROJECT_DIR$/spring-autowire/spring-autowire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-beandefinition/spring-beandefinition.iml" filepath="$PROJECT_DIR$/spring-beandefinition/spring-beandefinition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-circular-dependence/spring-circular-dependence.iml" filepath="$PROJECT_DIR$/spring-circular-dependence/spring-circular-dependence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-context/spring-context.iml" filepath="$PROJECT_DIR$/spring-context/spring-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-i18n/spring-i18n.iml" filepath="$PROJECT_DIR$/spring-i18n/spring-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-life-cycle/spring-life-cycle.iml" filepath="$PROJECT_DIR$/spring-life-cycle/spring-life-cycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-proxy/spring-proxy.iml" filepath="$PROJECT_DIR$/spring-proxy/spring-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-value-refesh/spring-value-refesh.iml" filepath="$PROJECT_DIR$/spring-value-refesh/spring-value-refesh.iml" />
+    </modules>
+  </component>
+</project>

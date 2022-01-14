@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+
+    <bean id="lesson1" class="com.zhaoyd6.beanMerge_04.LessonModel"/>
+
+    <bean id="lesson2" parent="lesson1">
+        <property name="name" value="立刻就撒娇可怜的空间0001"/>
+        <property name="lessonCount" value="100"/>
+    </bean>
+
+    <bean id="lesson3" parent="lesson2">
+        <property name="description" value="立刻就撒娇可怜的空间 002"/>
+    </bean>
+
+</beans>
